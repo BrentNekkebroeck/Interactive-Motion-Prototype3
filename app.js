@@ -35,34 +35,33 @@ let job =  {
     {
         "composition": "Final",
         "type": "data",
-        "layerIndex": "3",
-        "property": "Effects.4-Color Gradient.Positions & Colors.Color 1",
-        "value": "[1,0,0]"
+        "layerIndex": "9",
+        "property": "Effects.Kleur1.Color",
+        "value": [1,0,0]
     },
     {
         "composition": "Final",
         "type": "data",
-        "layerIndex": "3",
-        "property": "Effects.4-Color Gradient.Positions & Colors.Color 2",
-        "value": "[1,0,0]"
+        "layerIndex": "9",
+        "property": "Effects.Kleur2.Color",
+        "value": [1,0,0]
     },
     {
         "composition": "Final",
         "type": "data",
-        "layerIndex": "3",
-        "property": "Effects.4-Color Gradient.Positions & Colors.Color 3",
-        "value": "[1,0,0]"
+        "layerIndex": "9",
+        "property": "Effects.Kleur3.Color",
+        "value": [1,0,0]
     },
     {
         "composition": "Final",
         "type": "data",
-        "layerIndex": "3",
-        "property": "Effects.4-Color Gradient.Positions & Colors.Color 4",
-        "value": "[1,0,0]"
+        "layerIndex": "9",
+        "property": "Effects.Kleur4.Color",
+        "value": [1,0,0]
     },
-    
 
-
+  
 
 ],
 "actions":{
