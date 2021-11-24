@@ -12,7 +12,7 @@
   "dependencies": {
     "@nexrender/action-copy": "^1.24.2",
     "@nexrender/action-encode": "^1.28.2",
-    "@nexrender/core": "^1.32.3"
+    "@nexrender/core": "^1.32.3",
+    "get-audio-duration": "^3.0.0"
   }
 }
-
